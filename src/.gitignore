@@ -1,0 +1,4 @@
+# Ignore binaries and kernel objects
+
+*.o
+*.ko
