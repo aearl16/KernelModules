@@ -1,0 +1,7 @@
+# Ignore binaries and kernel objects
+
+*.o
+*.ko
+*.symvers
+*.cmd
+*.order
